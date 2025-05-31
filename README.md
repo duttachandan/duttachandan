@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="500" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/>
+<div align='center'><img align="center" alt="Coding" width="500" src="https://cdn.statically.io/img/i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"/></div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=3498DB&lines=Hello+there!+%F0%9F%91%8B;I+am+Chandan+Dutta;Full+Stack+Developer;React.js+%7C+Node.js+%7C+Java" alt="Typing SVG">
