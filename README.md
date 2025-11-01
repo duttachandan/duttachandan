@@ -66,7 +66,7 @@ Hi, I'm *Chandan Dutta*, a passionate **Full Stack Developer** specializing in m
   </a>
 
   <a href="https://github.com/duttachandan/Workz-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duttachandan&repo=Portfolio&theme=radical" alt="Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duttachandan&repo=Workz-portfolio&theme=radical" alt="Portfolio">
   </a>
 </div>
 
