@@ -10,9 +10,10 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-Hi, I'm *Chandan Dutta*, a passionate **Full Stack Developer** specializing in modern web technologies. I bring ideas to life with *React.js*, *Next.js*, *React Native*, *Node.js*, and *Java*. My tech journey revolves around building responsive and efficient web applications using tools like *Tailwind CSS*, *Bootstrap*, *MySql*, and *MongoDB*.
-
+<div align="center">
+  Hi, I'm *Chandan Dutta*, a passionate **Full Stack Developer** specializing in modern web technologies. I bring ideas to life with *React.js*, *Next.js*, *React Native*, *Node.js*, and *Java*. My tech journey revolves around building responsive and efficient web applications using tools like *Tailwind CSS*, *Bootstrap*, *MySql*, and *MongoDB*.
 ---
+</div>
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
